@@ -2,3 +2,6 @@ streamlit
 numpy
 tensorflow.keras.models
 PIL
+pillow
+pandas
+scikit-learn
