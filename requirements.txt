@@ -1,7 +1,6 @@
 streamlit==1.34.0
 tensorflow-cpu==2.12.0
-pillow
 numpy
-pandas
+pillow
 scikit-learn
-opencv-python
+pandas
